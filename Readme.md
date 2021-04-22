@@ -1,11 +1,6 @@
 Code by: Kaan Sinar
 
-CIS2500 Assignment 3
-
-Compilation: make all
-
-Q1 and Q2:
-
+    Compilation: make all
     usage: ./decode (-sStx) (-F) (input file) (-O) (output file) (-n)
 
     flag functions: 
@@ -24,6 +19,3 @@ Q1 and Q2:
     there is a max amount of characters you can read in per run (1000000)
 
     NOTE: when reading from stdin, to stop reading in you have to press enter and then hit ^D or hit ^D twice (EOF)
-
-Q3:
-    only opens the files, checks for flags and sets encoding and decoding shifts, doesnt do much else right now
