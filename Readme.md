@@ -1,4 +1,4 @@
-Code by: Kaan Sinar
+#Caeser Cipher Encoder and Decoder using Chi-Squared
 
     Compilation: make all
     usage: ./decode (-sStx) (-F) (input file) (-O) (output file) (-n)
